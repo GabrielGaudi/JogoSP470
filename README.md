@@ -19,9 +19,7 @@
   <li>
     https://assetstore.unity.com/packages/3d/characters/toon-killers-survivors-12353  
   </li>
-  
     (os personagens que mais se parecem com o aruam seriam os "survivor1" ou o "survivor5")
- 
   <li>
     https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926
   </li>
