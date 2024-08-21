@@ -24,3 +24,11 @@
     https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926
   </li>
 </ul>
+
+<h4>Cores(Paleta)</h4>
+<ol>
+  <h6>Personagem Principal:</h6><p>As cores do jogador são cores claras e quente(vermelho), ficando em contraste com as cores do ambiente. Isso ajuda o jogador a identifica-lo rapidamente e o destaca no mundo, sendo o único personagem vivo.</p>
+  <h6>Inimigos:</h6><p>Suas cores são claras, porém são levemente transparentes e com um brilho, dando a sensação do sobrenatural e os destacando em relação ao cenário para que os jogador os veja bem</p>
+  <h6>NPCs</h6><p>Apesar de serem simlares aos outros fantasmas, as cores de seus acessórios e roupas os separam</p>
+  <h6>Cenário</h6>
+</ol>
