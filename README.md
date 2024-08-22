@@ -14,7 +14,7 @@
   <li>https://assetstore.unity.com/packages/3d/environments/lowpoly-tiles-set-75524</li>
 </ul>
 
-<h1>Personagens de bosta</h1>
+<h1>Personagens</h1>
 <ul>
   <li>
     https://assetstore.unity.com/packages/3d/characters/toon-killers-survivors-12353  
@@ -28,7 +28,9 @@
 <h4>Cores(Paleta)</h4>
 <ol>
   <h6>Personagem Principal:</h6><p>As cores do jogador são cores claras e quente(vermelho), ficando em contraste com as cores do ambiente. Isso ajuda o jogador a identifica-lo rapidamente e o destaca no mundo, sendo o único personagem vivo.</p>
-  <h6>Inimigos:</h6><p>Suas cores são claras, porém são levemente transparentes e com um brilho, dando a sensação do sobrenatural e os destacando em relação ao cenário para que os jogador os veja bem</p>
-  <h6>NPCs</h6><p>Apesar de serem simlares aos outros fantasmas, as cores de seus acessórios e roupas os separam</p>
-  <h6>Cenário</h6>
+  <h6>Inimigos:</h6><p>Suas cores são claras, porém são levemente transparentes e com um brilho, dando a sensação do sobrenatural e os destacando em relação ao cenário para que os jogador os veja bem.</p>
+  <h6>NPCs</h6><p>Apesar de serem simlares aos outros fantasmas, as cores de seus acessórios e roupas os separam.</p>
+  <h6>Cenário</h6><p>Os cenários possuem cores escuras e frias, contrastando com os elementos interativos(fantasmas e itens); essas cores também são da atmosfera noturna e o ambiente assombrado e assustador.</p>
+  <h6>Itens</h6><p>Como os outros elementos interativos também têm cores claras e quentes para serem facilmente vistos pelo jogador e para mostrar sua importância.</p>
+  <h6>Catedral</h6><p>A catedral possui um brilho sobrenatural e, entrando no tema dos fantasmas e atraindo o jogador, pois é a única construção onde o jogador deve entrar e o objetivo principal do jogo.</p>
 </ol>
