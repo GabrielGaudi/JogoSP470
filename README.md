@@ -25,6 +25,11 @@
   </li>
 </ul>
 
+<h1>Itens</h1>
+<ul>
+  <li>https://assetstore.unity.com/packages/3d/props/rust-key-167590 <p>Chave</p></li>
+</ul>
+
 <h4>Cores(Paleta)</h4>
 <ol>
   <h6>Personagem Principal:</h6><p>As cores do jogador são cores claras e quente(vermelho), ficando em contraste com as cores do ambiente. Isso ajuda o jogador a identifica-lo rapidamente e o destaca no mundo, sendo o único personagem vivo.</p>
